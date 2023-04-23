@@ -7,6 +7,8 @@
 ### Shiny App URL
 https://zmdinkel16.shinyapps.io/uber_project/?_ga=2.6165107.1712088273.1682283793-65768945.1679444998
 
+NOTE: Pivot tables in each csv are in the Pivots folder
+
 ## Brief Description of the Project
 This project included raw trip data from uber in the New York City Metropolis area. We were given multiple tasks to follow and produce specific chart outputs for this project. My code to do this is provided below. 
 
